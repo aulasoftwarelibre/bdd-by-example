@@ -24,8 +24,7 @@
     },
     "require-dev": {
         "behat/behat": "^3.4",
-        "phpspec/phpspec": "^4.3",
-        "leanphp/phpspec-code-coverage": "^4.2",
+        "phpspec/phpspec": "^5.0",
         "phpunit/phpunit": "^7.0"
     }
 }
